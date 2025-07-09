@@ -8,6 +8,10 @@
     "dark": "#15559a"
   },
   "favicon": "/IconParkToolkit.svg",
+  "logo": {
+    "light": "/IconParkToolkit.svg",
+    "dark": "/IconParkToolkit.svg"
+  },
   "navigation": {
     "tabs": [
       {
@@ -32,15 +36,11 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "chuck:ichuck.wang@foxmail.com"
+        "label": "AiBangXuanXing",
+        "href": "https://www.aibangxuanxing.com"
       }
     ]
   },
